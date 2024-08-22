@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @npmthiyane
+- 👋 Hi, I’m Nommie
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning all about Red Teaming and a bit of Blue Teaming
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 🌱 I’m currently learning all about Red and a bit of Blue Teaming
+- 💞️ I’m looking to collaborate on anything and everything Cyber
+- 📫 How to reach me npmthiyane1@gmail.com
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
 <!---
